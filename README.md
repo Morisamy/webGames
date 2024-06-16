@@ -24,8 +24,7 @@ webGames is a dynamic platform offering a variety of online casino games designe
 ---
 
 ### Demo:
-For an exciting preview of our online casino games and to see the platform in action, check out the project demonstration on YouTube [here](https://youtu.be/-Lw1KwzcKuo?si=ECugEP0pya_ye2v9).
-
+For an exciting preview of our online casino games and to see the platform in action, check out the project demonstration on YouTube [here](https://youtu.be/-Lw1KwzcKuo?si=ECugEP0pya_ye2v9). & [here](https://youtu.be/YTPCsARUZoA?si=fyX1UZo9xv05dGOz)
 ---
 
 ![Online Casino Games](https://via.placeholder.com/800x400.png?text=Online+Casino+Games)
